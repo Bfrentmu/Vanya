@@ -68,7 +68,7 @@
         <p>i know beberapa hari ini mood kamu lagi kurang bagus, but i can't do anything so i just sending you this</p>
         <p>jangan skip makan ya cantikk, semoga acara hari ini lancar</p>
         <p>semangattttt</p>
-    <img src="https://github.com/Bfrentmu/Vanya/blob/2a27bbbb9afa1acdd70ac2d1b0c84b8b64e719da/giphy%20(1).gif" alt="error">
+    <img src="https://media.tenor.com/gyeEuAs90bgAAAAC/virtual-hug-send-hug.gif" alt="error">
     </div>
 
     <div class="popup" id="popup1">
