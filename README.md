@@ -64,12 +64,10 @@
     <div class="container">
         <h1>For My Beloved Vanya</h1>
         <p>Dear Vanya,</p>
-        <p>Every moment with you is a blessing, and my heart is overflowing with love that's impossible to express in words. Your smile brightens my day, and your presence fills my world with happiness.</p>
-        <p>From the instant we met, I felt a connection that I've never experienced before. Your kindness, your grace, and your beauty captivate me in ways I can't describe.</p>
-        <p>Every shared moment feels like a fairytale, and I am grateful for the love we share. You are my anchor, my confidante, and my heart's desire.</p>
-        <p>As we journey through life together, I eagerly anticipate the adventures and memories we'll create. Thank you for being the love of my life.</p>
-        <p>With all my love,</p>
-        <p>[Your Name]</p>
+        <p>halo cantikku, kamu hari ini sibuk gasih??? ya kalo sibukpun gapapa</p>
+        <p>i know beberapa hari ini mood kamu lagi kurang bagus, but i can't do anything so i just sending you this</p>
+        <p>jangan skip makan ya cantikk, semoga acara hari ini lancar</p>
+        <p>semangattttt</p>
     </div>
 
     <div class="popup" id="popup1">
